@@ -187,6 +187,17 @@ Nuestra visión en GoSteel es liderar la transformación del transporte urbano, 
 Con FastScooter, en GoSteel estamos comprometidos a proporcionar a las transeuntes una solución de movilidad ágil, eficiente y ecológica que les permita optimizar sus rutas y promover un futuro más sostenible para todos.
 
 ### 1.1.2 Perfiles de integrantes del equipo
+
+<img src="./assets/profile-sharon.png" alt="Sharon Antuanet Ivet Barrial Marin" width="200" height="200">
+
+Nombre completo: Sharon Antuanet Ivet Barrial Marin 
+
+Código de estudiante: U202114900
+
+Carrera: Ingeniería de Software
+
+Acerca de mí: Soy una estudiante que se caracteriza por poseer cualidades como la perseverencia, el compañerismo y la comunicación interpersonal. Además de tener conocimientos en diversos lenguajes de programación (Python, C++, C#...), también tengo habilidades en la edición de fotos y videos, y en el enfoque al marketing digital. Espero que estas pocas cualidades sirvan como aporte al proyecto durante el presente ciclo y curso.
+
 <img src="./assets/profile-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
 
 Nombre completo: Pietro Gerardo Minaya Mundines 
