@@ -20,7 +20,7 @@ Producto: FastScooter
 
 Integrantes:
 - Apellido Apellido, Nombre Nombre
-- Apellido Apellido, Nombre Nombre
+- Barrial Marin, Sharon Antuanet Ivet - U202114900
 - Minaya Mundines, Pietro Minaya - U201718387
 - Apellido Apellido, Nombre Nombre
 - Apellido Apellido, Nombre Nombre
