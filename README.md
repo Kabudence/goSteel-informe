@@ -222,7 +222,295 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 ## 1.3. Segmentos objetivo
 
----
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1 Competidores
+<img src="./assets/competitor-logo-lime.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+
+***Lime:*** Una de las empresas líderes en el alquiler de scooters eléctricos. Opera en varias ciudades de todo el mundo y se ha convertido en una opción popular para la movilidad urbana.
+
+<img src="./assets/competitor-logo-bird.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+
+***Bird:*** Empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
+
+<img src="./assets//competitor-logo-voi.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+
+***Voi:*** es otra empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
+
+### 2.1.1 Análisis competitivo
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>GoSteel</td>
+			<td>Lime</td>
+			<td>Bird</td>
+			<td>Voi</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td>Aplicación web diseñada para el alquiler de scooters</td>
+			<td>Aplicación web diseñada para la compra/alquiler de scooters</td>
+			<td>Aplicación web diseñada para la compra/alquiler de scooters</td>
+			<td>Aplicación web diseñada para la compra/alquiler de scooters</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td>Ser una plataforma que ofrece </td>
+			<td>Ser una plataforma que facilita  </td>
+			<td>Ser una plataforma que proporciona </td>
+			<td>Ser una plataforma que administra </td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos &amp; Servicios</td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li>Actualizaciones continuas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precios transparentes</li>
+                    <li>Permite la comunicación entre interesados</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Optimiza las rutas cada día siendo más eficiente</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Brinda capacidad de administrar todos los aspectos del alquiler</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>
+                <ul>
+                    <li>Carece de ciertas características específicas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma poco intuitiva</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precio de renta elevados</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Tiene un costo muy alto para lo que ofrece</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>
+                <ul>
+                    <li>Expansión de la plataformaa mercados internacionales</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Mejores condiciones de uso en la aplicación</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Reputacion</li>
+                    <li>Buen reconocimiento</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Funciona correctamente para ayudar a los interesados</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>
+                <ul>
+                    <li>Presencia de competidores estalecidos</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+		</tr>
+	</tbody>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+- CALIDAD: Después de estudiar a nuestros competidores en el mercado de alquiler de scooters, hemos identificado que uno de los principales problemas que enfrentan es la falta de mantenimiento de sus aplicaciones web, lo que resulta en numerosas quejas por errores frecuentes y tiempos de carga prolongados. Para diferenciarnos y obtener una ventaja competitiva, nos enfocaremos en optimizar los tiempos de carga de nuestra aplicación web y garantizar una experiencia sin inconvenientes para el usuario, abordando temas de disponibilidad, funcionalidad y accesibilidad.
+- MARKETING: Al analizar el caso de "Lime" en relación con la popularidad en el mercado de alquiler de scooters, hemos observado que uno de sus principales desafíos radica en su limitado alcance y la falta de estrategias de marketing digital efectivas. Su dependencia de un modelo de publicidad insuficiente ha obstaculizado su crecimiento y ha dificultado ofrecer una solución sostenible a largo plazo para sus problemas. Para evitar este obstáculo, nos centraremos en implementar estrategias de marketing digital sólidas que amplíen nuestro alcance y promuevan de manera efectiva nuestros servicios de alquiler de scooters en el mercado."
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+### 2.2.2. Registro de entrevistas
+### 2.2.3. Análisis de entrevistas
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+### 2.3.2. User Task Matrix
+### 2.3.3. User Journey Mapping
+### 2.3.4. Empathy Mapping
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
