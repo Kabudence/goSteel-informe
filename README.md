@@ -222,6 +222,9 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 ## 1.3. Segmentos objetivo
 
+**Empresas delivery:**
+**Ciudadanos:**
+
 ---
 # Conclusiones
 ### Conclusiones y recomendaciones
