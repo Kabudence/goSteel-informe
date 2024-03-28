@@ -498,14 +498,61 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+Segmento Objetivo 1 (Usuario Scooter)
+1. ¿Con qué frecuencia utilizas scooters como medio de transporte?
+2. ¿Cuáles crees que son los principales beneficios de usar scooters en comparación con otros medios de transporte, como automóviles o bicicletas?
+3. ¿Has experimentado algún desafío o limitación al usar scooters en tu distrito?
+4. ¿Qué características valoras más al alquilar un scooter, como la comodidad, la velocidad o la autonomía de la batería?
+5. ¿Has utilizado servicios de alquiler de scooters antes? Si es así, ¿cómo ha sido tu experiencia general?
+6. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler de scooters?
+7. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler de scooters?
+8. ¿Qué características te gustaría ver en una aplicación de alquiler de scooters para que sea más fácil y conveniente para ti?
+9. ¿Qué medidas de seguridad consideras importantes al alquilar y usar scooters, tanto para ti como para otros usuarios y peatones?
+10. ¿Crees que seguirás utilizando scooters como medio de transporte en el futuro?
+
 ### 2.2.2. Registro de entrevistas
+
+Segmento Objetivo: Segemento Objetivo 1
+
+Entrevistado: 1
+
+Nombre y apellidos: Luis Carbajal
+
+Edad: 20
+
+Distrito: San Isidro
+
+<img src="./assets/interview-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="600" height="300">
+
+[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
+
+Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
+
+---
+
 ### 2.2.3. Análisis de entrevistas
+
+ Segemento Objetivo 1  
+- Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
+- Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
+- Desafíos y limitaciones: Señala desafíos como la disponibilidad y el estado de los scooters, así como problemas con la infraestructura vial, lo que sugiere áreas de mejora en el servicio de alquiler de scooters y la planificación urbana.
+- Características valoradas en un scooter: Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, lo que resalta la importancia de estos aspectos para la satisfacción del usuario.
+- Experiencia con servicios de alquiler de scooters: Ha tenido experiencias mixtas con servicios de alquiler, destacando aspectos positivos como la disponibilidad y negativos como la falta de mantenimiento.
+- Expectativas de una aplicación de alquiler de scooters: Espera una aplicación intuitiva y con datos en tiempo real sobre la disponibilidad de scooters, lo que resalta la importancia de la tecnología en la mejora de la experiencia del usuario.
+- Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
+- Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
+
+Segemento Objetivo 2
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
 ### 2.3.2. User Task Matrix
+
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping
+
 ### 2.3.5. As-is Scenario Mapping
 
 ## 2.4. Ubiquitous Language
