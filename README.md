@@ -225,7 +225,342 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 **Empresas delivery:**
 **Ciudadanos:**
 
+# Capítulo II: Requirements Elicitation & Analysis
+## 2.1 Competidores
+<img src="./assets/competitor-logo-lime.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+
+***Lime:*** Una de las empresas líderes en el alquiler de scooters eléctricos. Opera en varias ciudades de todo el mundo y se ha convertido en una opción popular para la movilidad urbana.
+
+<img src="./assets/competitor-logo-bird.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+
+***Bird:*** Empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
+
+<img src="./assets//competitor-logo-voi.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+
+***Voi:*** es otra empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
+
+### 2.1.1 Análisis competitivo
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="6">Competitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+		</tr>
+		<tr>
+			<td colspan="2"></td>
+			<td>GoSteel</td>
+			<td>Lime</td>
+			<td>Bird</td>
+			<td>Voi</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil</td>
+			<td>Overview</td>
+			<td>Aplicación web diseñada para el alquiler de scooters</td>
+			<td>Aplicación web diseñada para la compra/alquiler de scooters</td>
+			<td>Aplicación web diseñada para la compra/alquiler de scooters</td>
+			<td>Aplicación web diseñada para la compra/alquiler de scooters</td>
+		</tr>
+		<tr>
+			<td>Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+			<td>Ser una plataforma que ofrece </td>
+			<td>Ser una plataforma que facilita  </td>
+			<td>Ser una plataforma que proporciona </td>
+			<td>Ser una plataforma que administra </td>
+		</tr>
+		<tr>
+			<td rowspan="2">Perfil de Marketing</td>
+			<td>Mercado objetivo</td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Segmento Objetivo 1</li>
+                    <li>Segmento Objetivo 2</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Estrategias de marketing</td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Marketing de contenido</li>
+                    <li>Página web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perfil de Producto</td>
+			<td>Productos &amp; Servicios</td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Precios &amp; Costos</td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma de Pago</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Canales de distribución (Web y/o Móvil)</td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Aplicación web</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td rowspan="4">Análisis SWOT</td>
+			<td>Fortalezas</td>
+			<td>
+                <ul>
+                    <li></li>
+                    <li>Actualizaciones continuas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precios transparentes</li>
+                    <li>Permite la comunicación entre interesados</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Optimiza las rutas cada día siendo más eficiente</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Brinda capacidad de administrar todos los aspectos del alquiler</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Debilidades</td>
+			<td>
+                <ul>
+                    <li>Carece de ciertas características específicas</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Plataforma poco intuitiva</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Precio de renta elevados</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Tiene un costo muy alto para lo que ofrece</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Oportunidades</td>
+			<td>
+                <ul>
+                    <li>Expansión de la plataformaa mercados internacionales</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Mejores condiciones de uso en la aplicación</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Reputacion</li>
+                    <li>Buen reconocimiento</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>Funciona correctamente para ayudar a los interesados</li>
+                </ul>
+            </td>
+		</tr>
+		<tr>
+			<td>Amenazas</td>
+			<td>
+                <ul>
+                    <li>Presencia de competidores estalecidos</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+			<td>
+                <ul>
+                    <li>App similar</li>
+                </ul>
+            </td>
+		</tr>
+	</tbody>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+- CALIDAD: Después de estudiar a nuestros competidores en el mercado de alquiler de scooters, hemos identificado que uno de los principales problemas que enfrentan es la falta de mantenimiento de sus aplicaciones web, lo que resulta en numerosas quejas por errores frecuentes y tiempos de carga prolongados. Para diferenciarnos y obtener una ventaja competitiva, nos enfocaremos en optimizar los tiempos de carga de nuestra aplicación web y garantizar una experiencia sin inconvenientes para el usuario, abordando temas de disponibilidad, funcionalidad y accesibilidad.
+- MARKETING: Al analizar el caso de "Lime" en relación con la popularidad en el mercado de alquiler de scooters, hemos observado que uno de sus principales desafíos radica en su limitado alcance y la falta de estrategias de marketing digital efectivas. Su dependencia de un modelo de publicidad insuficiente ha obstaculizado su crecimiento y ha dificultado ofrecer una solución sostenible a largo plazo para sus problemas. Para evitar este obstáculo, nos centraremos en implementar estrategias de marketing digital sólidas que amplíen nuestro alcance y promuevan de manera efectiva nuestros servicios de alquiler de scooters en el mercado."
+
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
+Segmento Objetivo 1 (Usuario Scooter)
+1. ¿Con qué frecuencia utilizas scooters como medio de transporte?
+2. ¿Cuáles crees que son los principales beneficios de usar scooters en comparación con otros medios de transporte, como automóviles o bicicletas?
+3. ¿Has experimentado algún desafío o limitación al usar scooters en tu distrito?
+4. ¿Qué características valoras más al alquilar un scooter, como la comodidad, la velocidad o la autonomía de la batería?
+5. ¿Has utilizado servicios de alquiler de scooters antes? Si es así, ¿cómo ha sido tu experiencia general?
+6. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler de scooters?
+7. ¿Hay aspectos específicos que hayas encontrado especialmente positivos o negativos al utilizar servicios de alquiler de scooters?
+8. ¿Qué características te gustaría ver en una aplicación de alquiler de scooters para que sea más fácil y conveniente para ti?
+9. ¿Qué medidas de seguridad consideras importantes al alquilar y usar scooters, tanto para ti como para otros usuarios y peatones?
+10. ¿Crees que seguirás utilizando scooters como medio de transporte en el futuro?
+
+### 2.2.2. Registro de entrevistas
+
+Segmento Objetivo: Segemento Objetivo 1
+
+Entrevistado: 1
+
+Nombre y apellidos: Luis Carbajal
+
+Edad: 20
+
+Distrito: San Isidro
+
+<img src="./assets/interview-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="600" height="300">
+
+[URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
+
+Resumen: El entrevistado utiliza scooters varias veces a la semana, especialmente para distancias cortas en áreas urbanas congestionadas, destacando su conveniencia y agilidad en comparación con otros medios de transporte. Sin embargo, señala desafíos como la disponibilidad y el estado de los scooters, así como problemas de infraestructura vial. Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, y ha tenido experiencias mixtas con servicios de alquiler, destacando la disponibilidad y la falta de mantenimiento como aspectos positivos y negativos. Espera ver en una aplicación de alquiler de scooters una interfaz intuitiva y datos en tiempo real sobre la disponibilidad. Considera importante el mantenimiento y el respeto a las normas de seguridad para todos los usuarios y peatones, y planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad.
+
 ---
+
+### 2.2.3. Análisis de entrevistas
+
+ Segemento Objetivo 1  
+- Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
+- Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
+- Desafíos y limitaciones: Señala desafíos como la disponibilidad y el estado de los scooters, así como problemas con la infraestructura vial, lo que sugiere áreas de mejora en el servicio de alquiler de scooters y la planificación urbana.
+- Características valoradas en un scooter: Valora la comodidad, seguridad y autonomía de la batería al alquilar un scooter, lo que resalta la importancia de estos aspectos para la satisfacción del usuario.
+- Experiencia con servicios de alquiler de scooters: Ha tenido experiencias mixtas con servicios de alquiler, destacando aspectos positivos como la disponibilidad y negativos como la falta de mantenimiento.
+- Expectativas de una aplicación de alquiler de scooters: Espera una aplicación intuitiva y con datos en tiempo real sobre la disponibilidad de scooters, lo que resalta la importancia de la tecnología en la mejora de la experiencia del usuario.
+- Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
+- Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
+
+Segemento Objetivo 2
+
+## 2.3. Needfinding
+### 2.3.1. User Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-is Scenario Mapping
+
+## 2.4. Ubiquitous Language
+
+
 # Conclusiones
 ### Conclusiones y recomendaciones
 ### Video About-the-Team
