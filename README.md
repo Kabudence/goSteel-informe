@@ -222,8 +222,15 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 ## 1.3. Segmentos objetivo
 
-**Empresas delivery:**
-**Ciudadanos:**
+**Empresas delivery**
+
+Las empresas delivery o con servicio delivery son un enfoque importante para nuestro producto, ya que **FastScooter** les da como beneficio la **eficiencia en la entrega**. Debido a que los scooters son vehículos pequeños y ágiles consiguen acceder a áreas de la ciudad a las que los automóviles no pueden llegar fácilmente haciendo que las entregas sean más rápidas y cumplan con los plazos acordados sin que el tráfico congestionado de Lima metropolitana sea un problema.
+
+Asimismo, resuelve el problema de la **reducción de costos operativos**, puesto que al hacer uso de scooters en lugar de vehículos más grandes ocasionan que los costos operativos asociados con el mantenimiento y el combustible disminuya, lo que puede ser beneficioso para las empresas de entrega en términos de rentabilidad. A su vez, alquilar scooters en lugar de comprarlos puede proporcionar a las empresas de entrega la flexibilidad de aumentar o reducir su flota según la demanda, lo que les permite ajustarse a los cambios estacionales o a las fluctuaciones en la demanda del mercado.
+
+Además de estas razones empresariales, también existe una mejora en la **sostenibilidad ambiental**. El uso de scooters eléctricos produce bajas emisiones lo que ayuda a reducir la huella de carbono de las operaciones de entrega de la empresa, lo que puede ser un punto de venta importante para aquellas empresas que buscan mejorar su imagen y compromiso con el ambiente.
+
+**Ciudadanos**
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
