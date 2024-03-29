@@ -230,6 +230,7 @@ Asimismo, resuelve el problema de la **reducción de costos operativos**, puesto
 
 Además de estas razones empresariales, también existe una mejora en la **sostenibilidad ambiental**. El uso de scooters eléctricos produce bajas emisiones de polución lo que ayuda a reducir la huella de carbono de las operaciones de entrega de la empresa y esto es un punto de venta importante para aquellas empresas que buscan mejorar su imagen y compromiso con el ambiente.
 
+
 >**Personas que transitan Lima Metropolitana**
 
 Aunque *FastScooter* está disponible a todo público bajo su propia responsalidad, nuestro enfoque primordial son las personas que se movilizan por Lima Metropolitana de 18 a 30 años de edad, cuando cumplen la mayoría de edad y en general tienden a movilizarse por sí solos. En este tipo de casos, los scooters son una solución viable de **transporte alternativo** en las áreas urbanas, donde abunda los problemas de congestión de tráfico y estacionamiento limitado. El alquiler de scooters ofrece una solución de movilidad alternativa que es más rápida y flexible que el transporte público y más económica que el uso de un automóvil o taxi.
