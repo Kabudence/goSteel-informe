@@ -234,15 +234,15 @@ Además de estas razones empresariales, también existe una mejora en la **soste
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
-<img src="./assets/competitor-logo-lime.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets/competitor-logo-lime.png" alt="Lima" width="200" height="200">
 
 ***Lime:*** Una de las empresas líderes en el alquiler de scooters eléctricos. Opera en varias ciudades de todo el mundo y se ha convertido en una opción popular para la movilidad urbana.
 
-<img src="./assets/competitor-logo-bird.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets/competitor-logo-bird.jpeg" alt="Bird" width="200" height="200">
 
 ***Bird:*** Empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
 
-<img src="./assets//competitor-logo-voi.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets//competitor-logo-voi.jpeg" alt="Voi" width="200" height="200">
 
 ***Voi:*** es otra empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
 
@@ -532,7 +532,7 @@ Edad: 20
 
 Distrito: San Isidro
 
-<img src="./assets/interview-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="600" height="300">
+<img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
 
 [URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
 
@@ -542,7 +542,7 @@ Resumen: El entrevistado utiliza scooters varias veces a la semana, especialment
 
 ### 2.2.3. Análisis de entrevistas
 
- Segemento Objetivo 1  
+ Segemento Objetivo 1:  
 - Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
 - Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
 - Desafíos y limitaciones: Señala desafíos como la disponibilidad y el estado de los scooters, así como problemas con la infraestructura vial, lo que sugiere áreas de mejora en el servicio de alquiler de scooters y la planificación urbana.
@@ -552,7 +552,7 @@ Resumen: El entrevistado utiliza scooters varias veces a la semana, especialment
 - Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
 - Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
 
-Segemento Objetivo 2
+Segemento Objetivo 2: 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
