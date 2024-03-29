@@ -219,6 +219,35 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
+### Problema
+- Las empresas de delivery enfrentan desafíos con la eficiencia de las entregas y los costos operativos.
+- Personas en Lima Metropolitana encuentran problemas con la congestión del tráfico y la falta de opciones de transporte sostenible.
+
+### Solución
+- FastScooter: Plataforma de alquiler de scooters eléctricos para empresas de delivery y transeuntes.
+
+### Resultado Esperado
+- Mejora en la eficiencia de las entregas para empresas de delivery.
+- Alternativa de transporte ágil y sostenible para personas en Lima Metropolitana.
+
+### Métricas
+- Número de empresas de delivery que utilizan FastScooter.
+- Tiempo promedio de entrega antes y después de utilizar FastScooter.
+- Número de usuarios registrados en la plataforma.
+
+### Características Clave
+- Alquiler de scooters eléctricos para empresas de delivery.
+- Alquiler de scooters para personas en Lima Metropolitana.
+- Aplicación móvil para reservas y seguimiento de scooters.
+- Soporte para múltiples métodos de pago.
+
+### Hipótesis
+- FastScooter mejorará la eficiencia de las entregas al proporcionar una opción de transporte ágil y económica.
+- FastScooter será adoptado por personas en Lima Metropolitana como una alternativa sostenible al transporte tradicional.
+
+### Prioridades de Riesgo
+- Dependencia de la infraestructura de carga para scooters eléctricos.
+- Competencia con empresas establecidas en el mercado de alquiler de scooters.
 
 ## 1.3. Segmentos objetivo
 
