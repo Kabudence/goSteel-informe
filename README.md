@@ -535,7 +535,7 @@ Resumen: El entrevistado utiliza scooters varias veces a la semana, especialment
 
 ### 2.2.3. Análisis de entrevistas
 
- Segemento Objetivo 1  
+ Segemento Objetivo 1:  
 - Frecuencia de uso de scooters: El entrevistado utiliza scooters varias veces a la semana, lo que indica una alta frecuencia de uso y dependencia de este medio de transporte.
 - Beneficios de los scooters: Destaca la conveniencia y agilidad de los scooters para moverse en áreas urbanas congestionadas, así como su economía y eco-amigabilidad en comparación con otros medios de transporte.
 - Desafíos y limitaciones: Señala desafíos como la disponibilidad y el estado de los scooters, así como problemas con la infraestructura vial, lo que sugiere áreas de mejora en el servicio de alquiler de scooters y la planificación urbana.
@@ -545,7 +545,7 @@ Resumen: El entrevistado utiliza scooters varias veces a la semana, especialment
 - Medidas de seguridad: Considera importante el mantenimiento y el respeto a las normas de seguridad, lo que subraya la necesidad de garantizar la seguridad tanto para los usuarios como para los peatones.
 - Futuro uso de scooters: Planea seguir utilizando scooters como medio de transporte en el futuro debido a su conveniencia y sostenibilidad, lo que indica una tendencia a largo plazo en el uso de este medio de transporte.
 
-Segemento Objetivo 2
+Segemento Objetivo 2: 
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
