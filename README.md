@@ -224,13 +224,21 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 **Empresas delivery**
 
-Las empresas delivery o con servicio delivery son un enfoque importante para nuestro producto, ya que **FastScooter** les da como beneficio la **eficiencia en la entrega**. Debido a que los scooters son vehículos pequeños y ágiles consiguen acceder a áreas de la ciudad a las que los automóviles no pueden llegar fácilmente haciendo que las entregas sean más rápidas y cumplan con los plazos acordados sin que el tráfico congestionado de Lima metropolitana sea un problema.
+Las empresas delivery o con servicio delivery en Lima metropolitana son un enfoque importante para nuestro producto, ya que *FastScooter* les da como beneficio la **eficiencia en la entrega**. Debido a que los scooters son vehículos pequeños y ágiles, consiguen acceder a áreas de la ciudad a las que los automóviles no pueden llegar fácilmente haciendo que las entregas sean más rápidas y cumplan con los plazos acordados sin que el tráfico congestionado de Lima Metropolitana sea un problema.
 
 Asimismo, resuelve el problema de la **reducción de costos operativos**, puesto que al hacer uso de scooters en lugar de vehículos más grandes ocasionan que los costos operativos asociados con el mantenimiento y el combustible disminuya, lo que puede ser beneficioso para las empresas de entrega en términos de rentabilidad. A su vez, alquilar scooters en lugar de comprarlos puede proporcionar a las empresas de entrega la flexibilidad de aumentar o reducir su flota según la demanda, lo que les permite ajustarse a los cambios estacionales o a las fluctuaciones en la demanda del mercado.
 
-Además de estas razones empresariales, también existe una mejora en la **sostenibilidad ambiental**. El uso de scooters eléctricos produce bajas emisiones lo que ayuda a reducir la huella de carbono de las operaciones de entrega de la empresa, lo que puede ser un punto de venta importante para aquellas empresas que buscan mejorar su imagen y compromiso con el ambiente.
+Además de estas razones empresariales, también existe una mejora en la **sostenibilidad ambiental**. El uso de scooters eléctricos produce bajas emisiones de polución lo que ayuda a reducir la huella de carbono de las operaciones de entrega de la empresa y esto es un punto de venta importante para aquellas empresas que buscan mejorar su imagen y compromiso con el ambiente.
 
-**Ciudadanos**
+**Personas que transitan Lima Metropolitana**
+
+Aunque *FastScooter* está disponible a todo público bajo su propia responsalidad, nuestro enfoque primordial son las personas que se movilizan por Lima Metropolitana de 18 a 30 años de edad, cuando cumplen la mayoría de edad y en general tienden a movilizarse por sí solos. En este tipo de casos, los scooters son una solución viable de **transporte alternativo** en las áreas urbanas, donde abunda los problemas de congestión de tráfico y estacionamiento limitado. El alquiler de scooters ofrece una solución de movilidad alternativa que es más rápida y flexible que el transporte público y más económica que el uso de un automóvil o taxi.
+
+Además, al ser un servicio *eco-friendly*, aporta al **cuidado de nuestro medio ambiente**, debido a que reduce las emisiones de carbono y la creciete polución que crean los vehículos de combustión interna en la actualidad. Asimismo, y debido a la creciente toma de conciencia ambiental en los últimos años, ha hecho que muchas personas hagan uso de scooters eléctricos, fomentando un estilo de vida más respetuoso con el medio ambiente.
+
+Por otro lado, según RPP (2020), la mayoría de los ciudadanos no poseen un vehículo propio y en comparación con otros países de Latianoamérica, Perú cuenta con una cantidad de autos menor al promedio. El alquiler de scooters es una opción conveniente y flexible para desplazarse por la ciudad. Pueden usar los scooters para viajes cortos o esporádicos sin la necesidad de comprometerse con la propiedad y el mantenimiento de un vehículo.
+
+Por último, la renta de scooters estimula el turismo en la **realización de actividades** recreativas entre Los residentes locales y turistas, desde paseos por el vecindario a visitas a parques locales o exploración de lugares de interés turístico dentro de la ciudad.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
@@ -574,6 +582,8 @@ Segemento Objetivo 2:
 
 ---
 # Bibliografía
+
+
 
 
 ---
