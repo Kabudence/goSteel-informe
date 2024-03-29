@@ -574,11 +574,8 @@ Segemento Objetivo 2:
 			<td colspan="1" rowspan="2">User Tax Matrix</td>
             <td colspan="2" rowspan="1">Segmento Objetivo 1</td>
             <td colspan="2" rowspan="1">Segmento Objetivo 2</td>
-            <td colspan="1" rowspan="1">Segmento Objetivo 1</td>
-            <td colspan="1" rowspan="1">Segmento Objetivo 2</td>
 		</tr>
 		<tr>
-			<td colspan="1"></td>
 			<td colspan="1">Frecuencia</td>
             <td colspan="1">Importancia</td>
             <td colspan="1">Frecuencia</td>
