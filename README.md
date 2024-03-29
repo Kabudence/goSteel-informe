@@ -568,6 +568,32 @@ Segemento Objetivo 2:
 
 ### 2.3.2. User Task Matrix
 
+<table border="1" style="text-align: center;">
+	<tbody>
+		<tr>
+			<td colspan="1" rowspan="2">User Tax Matrix</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 1</td>
+            <td colspan="2" rowspan="1">Segmento Objetivo 2</td>
+            <td colspan="1" rowspan="1">Segmento Objetivo 1</td>
+            <td colspan="1" rowspan="1">Segmento Objetivo 2</td>
+		</tr>
+		<tr>
+			<td colspan="1"></td>
+			<td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>
+            <td colspan="1">Frecuencia</td>
+            <td colspan="1">Importancia</td>
+		</tr>
+        <tr>
+			<td colspan="1">...</td>
+			<td colspan="1">multiple/rara/nunca</td>
+            <td colspan="1">alta/baja/media</td>
+            <td colspan="1">multiple/rara/nunca</td>
+            <td colspan="1">alta/baja/media</td>
+		</tr>
+	</tbody>
+</table>
+
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
