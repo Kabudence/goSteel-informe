@@ -227,15 +227,15 @@ Acerca de mí: Soy un apasionado por la tecnologia y me apasiona el Ajedrez.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
-<img src="./assets/competitor-logo-lime.png" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets/competitor-logo-lime.png" alt="Lima" width="200" height="200">
 
 ***Lime:*** Una de las empresas líderes en el alquiler de scooters eléctricos. Opera en varias ciudades de todo el mundo y se ha convertido en una opción popular para la movilidad urbana.
 
-<img src="./assets/competitor-logo-bird.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets/competitor-logo-bird.jpeg" alt="Bird" width="200" height="200">
 
 ***Bird:*** Empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
 
-<img src="./assets//competitor-logo-voi.jpeg" alt="Pietro Gerardo Minaya Mundines" width="200" height="200">
+<img src="./assets//competitor-logo-voi.jpeg" alt="Voi" width="200" height="200">
 
 ***Voi:*** es otra empresa importante en este sector. Ofrece scooters eléctricos para alquilar en áreas urbanas. Su presencia global y su enfoque en la sostenibilidad los hacen destacar.
 
@@ -525,7 +525,7 @@ Edad: 20
 
 Distrito: San Isidro
 
-<img src="./assets/interview-pietro.png" alt="Pietro Gerardo Minaya Mundines" width="600" height="300">
+<img src="./assets/interview-pietro.png" alt="Entrevista Pietro" width="600" height="300">
 
 [URL: Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201718387_upc_edu_pe/EcP3udKBWfNMoRhxyVpas0MBwYe2gqcMm4UizBRFioqaGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MtI3Vr)
 
